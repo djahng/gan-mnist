@@ -1,3 +1,4 @@
 MNIST_data
 train_samples.pkl
+.ipynb_checkpoints/
 Intro_to_GANs_Solution.ipynb
